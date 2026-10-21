@@ -1,0 +1,31 @@
+{
+  "name": "outreach-studio",
+  "displayName": "Outreach Studio",
+  "version": "3.0.0",
+  "description": "Draft-only, human-approved cold outreach for med spas and auto dealers: site-only lead research, honest personalized drafts, deterministic gates, hash-anchored approvals, Gmail compose drafts. Never sends.",
+  "author": {
+    "name": "Outreach Studio contributors",
+    "email": "you@example.com",
+    "url": "https://example.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cold-email",
+    "outreach",
+    "human-in-the-loop",
+    "draft-only"
+  ],
+  "skills": [
+    "./.claude/skills/"
+  ],
+  "agents": [
+    "./.claude/agents/lead-researcher.md",
+    "./.claude/agents/email-writer.md",
+    "./.claude/agents/email-critic.md",
+    "./.claude/agents/reply-analyst.md"
+  ],
+  "hooks": "./.claude/hooks/plugin-hooks.json",
+  "experimental": {
+    "evals": "evals"
+  }
+}

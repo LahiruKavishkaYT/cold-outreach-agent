@@ -1,0 +1,30 @@
+{
+  "lead_id": "aurora-medspa",
+  "vertical": "medspa",
+  "touch": "first",
+  "campaign_id": "medspa-eval",
+  "message_version": "after-hours-v1",
+  "email_version": 1,
+  "recipient": "frontdesk@auroramedspa.example",
+  "cc": [],
+  "bcc": [],
+  "subject": "phone consults at aurora",
+  "body": "Hi Dana,\n\nYour consult page asks people to call to book their free skin consult, and you're closed Sunday and Monday. When you're the one injecting, a caller with a laser question on a Monday hears voicemail and usually tries the next clinic.\n\nI build an AI receptionist that answers those calls, covers the common pre-consult questions and books the consult. There's a live demo you can call like a client would: +1 (555) 010-0100.\n\nWorth a reply if it sounds useful?\n\nthe operator",
+  "attachments": [],
+  "personalization_evidence": [
+    {
+      "fact": "Call to book your free skin consult",
+      "source": "https://auroramedspa.example/consult"
+    },
+    {
+      "fact": "Closed Sunday and Monday",
+      "source": "https://auroramedspa.example/contact"
+    }
+  ],
+  "unverified_assumptions": [
+    "that calls go to voicemail when Dana is with a client"
+  ],
+  "approved_hash": null,
+  "approved_date": null,
+  "approval_expiry_date": null
+}

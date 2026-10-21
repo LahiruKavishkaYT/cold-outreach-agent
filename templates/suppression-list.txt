@@ -1,0 +1,4 @@
+# One email address per line. Lines after # are comments.
+# Any unsubscribe or negative reply is added here. suppression_check blocks
+# these addresses before drafting. Lowercase, exact match.
+# example-optout@somecompany.com

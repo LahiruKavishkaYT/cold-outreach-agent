@@ -1,0 +1,12 @@
+[
+  {
+    "lead_id": "lone-star-motors",
+    "recipient": "sales@lonestarmotors.example",
+    "campaign_id": "dealers-eval",
+    "vertical": "dealers",
+    "email_version": 1,
+    "touch": "first",
+    "status": "sent_by_user",
+    "sent_date": "2026-10-16T15:00:00+00:00"
+  }
+]

@@ -1,0 +1,6 @@
+# Extra domains the lead-researcher may fetch, one per line (subdomains included).
+# Lead websites from inputs/*.csv, state/ and batch manifests are allowed automatically.
+# Use this for a lead's own booking/portal pages hosted elsewhere, e.g.:
+# janeapp.com
+# vagaro.com
+# mangomint.com

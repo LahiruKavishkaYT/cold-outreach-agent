@@ -1,0 +1,27 @@
+{
+  "lead_id": "titan-air",
+  "company_name": "Titan Air & Heat",
+  "contact_name": null,
+  "recipient": "mock-lead@example-test.invalid",
+  "cc": [],
+  "bcc": [],
+  "subject": "after-hours calls at titan air",
+  "body": "Hi there - saw Titan Air advertises 24/7 emergency HVAC, but the after-hours line rang to voicemail when I tried it. That's usually where the high-intent jobs leak out. I build an AI voice agent that answers those calls, books the job, and texts the caller back. Want to hear it live? Call Jack, my HVAC demo, at +1 555 010 1234 - it's a real agent, not a recording.",
+  "attachments": [],
+  "campaign_id": "hvac-demo",
+  "email_version": 2,
+  "created_date": "2026-06-27",
+  "last_revised_date": "2026-06-27",
+  "approval_status": "approved_for_draft",
+  "approved_hash": "307c04bc63d79fa1d96449bfc9f34dd88d8114475501760a16b92a1f2a247f67",
+  "approved_date": "2026-06-27",
+  "approval_expiry_date": "2026-07-04",
+  "sent_date": null,
+  "personalization_evidence": [
+    "24/7 emergency advertised but after-hours line -> voicemail (contact page)"
+  ],
+  "unverified_assumptions": [
+    "No owner name found on site, so the open uses no first name by design."
+  ],
+  "follow_up_due_date": "2026-07-01"
+}

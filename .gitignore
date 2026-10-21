@@ -1,0 +1,40 @@
+# secrets / env — never commit
+.env
+*.key
+*secret*
+*credential*
+
+# runtime data (keep structure, not content)
+data/drafts/awaiting-review/*
+data/drafts/approved/*
+data/drafts/sent/*
+data/drafts/cancelled/*
+data/drafts/expired/*
+!data/drafts/**/.gitkeep
+state/research/*
+state/draft/*
+!state/research/.gitkeep
+!state/draft/.gitkeep
+outputs/*
+!outputs/.gitkeep
+data/approvals.log
+__pycache__/
+*.pyc
+.gstack/
+
+# v3
+data/.operator/
+backups/
+evals/results/
+outputs/draft-audit.md
+.claude/settings.local.json
+# live business data: lead lists, pipeline state, send log, opt-outs
+# (scripts create these on first use; templates/ has the empty shapes)
+inputs/*.csv
+state/leads-index*.json
+state/batches/
+data/outreach-log.json
+data/suppression.txt
+
+# keep the public example
+!inputs/example-leads.csv

@@ -1,0 +1,39 @@
+{
+  "aurora-medspa": {
+    "lead_id": "aurora-medspa",
+    "vertical": "medspa",
+    "state": "researched",
+    "recipient": "frontdesk@auroramedspa.example",
+    "website": "https://auroramedspa.example/",
+    "campaign_id": "medspa-eval",
+    "company": "Aurora Med Spa",
+    "touch": "first",
+    "message_version": "after-hours-v1",
+    "history": []
+  },
+  "lone-star-motors": {
+    "lead_id": "lone-star-motors",
+    "vertical": "dealers",
+    "state": "sent_by_user",
+    "recipient": "sales@lonestarmotors.example",
+    "website": "https://lonestarmotors.example/",
+    "campaign_id": "dealers-eval",
+    "company": "Lone Star Motors",
+    "touch": "first",
+    "message_version": "after-hours-v1",
+    "history": [],
+    "sent_date": "2026-10-16T15:00:00+00:00"
+  },
+  "glow-lab-medspa": {
+    "lead_id": "glow-lab-medspa",
+    "vertical": "medspa",
+    "state": "researched",
+    "recipient": "hello@glowlab.example",
+    "website": "https://glowlab.example/",
+    "campaign_id": "medspa-eval",
+    "company": "Glow Lab Med Spa",
+    "touch": "first",
+    "message_version": "after-hours-v1",
+    "history": []
+  }
+}

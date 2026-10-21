@@ -1,0 +1,14 @@
+{
+  "lead_id": "lone-star-motors",
+  "vertical": "dealers",
+  "touch": "first",
+  "campaign_id": "dealers-eval",
+  "email_version": 1,
+  "recipient": "sales@lonestarmotors.example",
+  "cc": [],
+  "bcc": [],
+  "subject": "late-night buyers",
+  "body": "Hi,\n\nYou ship nationwide, but the contact form says you reply next business day, so a buyer two time zones away who asks about a car at 10pm waits until tomorrow. I build an agent that answers web messages and after-hours calls on your real inventory and books the callback.\n\nWorth a reply?\n\nthe operator",
+  "attachments": [],
+  "approval_status": "sent_by_user"
+}

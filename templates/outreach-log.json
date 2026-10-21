@@ -1,0 +1,12 @@
+[
+  {
+    "lead_id": "example",
+    "company_name": "",
+    "recipient": "",
+    "campaign_id": "",
+    "email_version": 1,
+    "status": "sent_by_user",
+    "sent_date": null,
+    "_comment": "An entry is appended here ONLY after the operator confirms a manual send. dedup_check reads this file."
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "lead_id": "aurora-medspa",
+  "vertical": "medspa",
+  "company_name": "Aurora Med Spa",
+  "website": "https://auroramedspa.example/",
+  "recipient_email": "frontdesk@auroramedspa.example",
+  "location": "Boise, ID",
+  "owner_contact_name": "Dana Whitfield, NP (owner and lead injector)",
+  "business_hours": "Tue-Fri 10am-6pm, Sat 9am-2pm",
+  "closed_days": "Sunday and Monday",
+  "booking_tool": "Vagaro online booking",
+  "signature_services": [
+    "laser hair removal",
+    "HydraFacial",
+    "Botox and fillers"
+  ],
+  "brand_tone": "warm, clinical, first-name basis",
+  "personalization_hooks": [
+    {
+      "fact": "Site says consultations are booked by phone: 'Call us to book your free skin consult'",
+      "source": "https://auroramedspa.example/consult"
+    },
+    {
+      "fact": "Closed Sunday and Monday; weekday hours end at 6pm",
+      "source": "https://auroramedspa.example/contact"
+    },
+    {
+      "fact": "Dana is listed as owner and the only injector",
+      "source": "https://auroramedspa.example/about"
+    }
+  ],
+  "missing": [
+    "whether a person or voicemail answers after hours",
+    "team size beyond Dana"
+  ],
+  "injection_flags": [],
+  "source_urls": [
+    "https://auroramedspa.example/",
+    "https://auroramedspa.example/consult",
+    "https://auroramedspa.example/contact",
+    "https://auroramedspa.example/about"
+  ],
+  "research_date": "2026-10-20"
+}

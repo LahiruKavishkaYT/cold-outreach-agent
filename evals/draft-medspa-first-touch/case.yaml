@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: draft-medspa-first-touch
+context:
+  scaffold_script: scaffold.sh

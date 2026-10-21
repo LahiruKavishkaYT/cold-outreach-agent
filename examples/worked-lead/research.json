@@ -1,0 +1,15 @@
+{
+  "lead_id": "titan-air",
+  "fields": {
+    "company_name": {"value": "Titan Air & Heat", "source": "https://titanairandheat.example/about"},
+    "city": {"value": "Austin, TX", "source": "https://titanairandheat.example/contact"},
+    "services": {"value": "residential HVAC install, repair, 24/7 emergency", "source": "https://titanairandheat.example/services"},
+    "owner_name": {"value": "[[MISSING: no owner named on site]]", "source": null},
+    "hours": {"value": "Mon-Fri 8am-6pm; emergency line after hours", "source": "https://titanairandheat.example/contact"},
+    "hook": {"value": "advertises 24/7 emergency HVAC, but the after-hours line routes to voicemail", "source": "https://titanairandheat.example/contact"}
+  },
+  "strongest_hooks": [
+    "24/7 emergency promised but after-hours line goes to voicemail"
+  ],
+  "missing": ["owner_name", "published direct email"]
+}

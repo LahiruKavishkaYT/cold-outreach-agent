@@ -1,0 +1,42 @@
+{
+  "lead_id": "lone-star-motors",
+  "vertical": "dealers",
+  "company_name": "Lone Star Motors",
+  "website": "https://lonestarmotors.example/",
+  "recipient_email": "sales@lonestarmotors.example",
+  "location": "Austin, TX",
+  "owner_contact_name": "[[MISSING: no owner named on site]]",
+  "business_hours": "Mon-Sat 9am-7pm",
+  "closed_days": "Sunday",
+  "booking_tool": "contact form only, no chat widget",
+  "signature_services": [
+    "used luxury and performance cars",
+    "nationwide shipping",
+    "in-house financing with 20+ lenders"
+  ],
+  "brand_tone": "direct, enthusiast",
+  "personalization_hooks": [
+    {
+      "fact": "'We ship nationwide' banner on homepage",
+      "source": "https://lonestarmotors.example/"
+    },
+    {
+      "fact": "Financing page: 'approvals from 20+ lenders, all credit welcome'",
+      "source": "https://lonestarmotors.example/financing"
+    },
+    {
+      "fact": "No live chat; contact form says 'we reply next business day'",
+      "source": "https://lonestarmotors.example/contact"
+    }
+  ],
+  "missing": [
+    "owner or sales manager name"
+  ],
+  "injection_flags": [],
+  "source_urls": [
+    "https://lonestarmotors.example/",
+    "https://lonestarmotors.example/financing",
+    "https://lonestarmotors.example/contact"
+  ],
+  "research_date": "2026-10-20"
+}
